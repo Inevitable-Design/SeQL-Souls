@@ -6,7 +6,7 @@ From your command line, clone and run Todo-list:
 $ git clone https://github.com/YKizou/Uber-Clone
 
 # Go into the repository
-$ cd Uber-Clone
+$ cd SeQL-Souls
 
 # Install dependencies
 $ yarn
